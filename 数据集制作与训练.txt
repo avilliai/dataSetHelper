@@ -1,0 +1,10 @@
+把filelists文件夹和wavs文件夹压缩到一块，压缩文件名要用大写。
+在https://colab.research.google.com/drive/1eEwa5KmHrwZ06vM4CxkQyq6DAT_rSUMW进行训练(需要代理)
+
+当你需要制作新的数据集时，清空以下内容
+wavs和wavss文件夹下的所有音频
+123.wav
+删除你上次训练用的视频源或音频源和字幕
+把dataSet.xlsx、filelists文件夹下两个文本文档的内容清空
+
+随后重新运行main.py即可

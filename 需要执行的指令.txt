@@ -1,0 +1,2 @@
+打开cmd输入pip install -r requirements.txt
+如果下载慢，输入pip config set global.index-url https://mirrors.aliyun.com/pypi/simple
